@@ -3,15 +3,15 @@
 ### 界面及功能
 基于javax.swing，实现了游戏的图像界面，包括初始界面和棋盘界面如下所示：
 
-<img src="C:\Users\SHERLO~1\AppData\Local\Temp\WeChat Files\d8521c911efc65e8ca3d5d13b079447.png" alt="d8521c911efc65e8ca3d5d13b079447" style="zoom: 33%;" />
+<img src="https://github.com/SherloqueChang/Game-of-Amazon/blob/master/pic/d8521c911efc65e8ca3d5d13b079447.png" alt="d8521c911efc65e8ca3d5d13b079447" style="zoom: 33%;" />
 
-<img src="C:\Users\SHERLO~1\AppData\Local\Temp\WeChat Files\947c5765f051d43b9760d45ff0fe20c.png" alt="947c5765f051d43b9760d45ff0fe20c" style="zoom:33%;" />
+<img src="https://github.com/SherloqueChang/Game-of-Amazon/blob/master/pic/947c5765f051d43b9760d45ff0fe20c.png" alt="947c5765f051d43b9760d45ff0fe20c" style="zoom:33%;" />
 
 #### 初始界面
 
 1. 单人游戏：实现了人机对战，点击按钮后打开选择方界面：
 
-  <img src="C:\Users\SHERLO~1\AppData\Local\Temp\WeChat Files\240c5ff9f8efbb01f85f5f31b5ab168.png" alt="240c5ff9f8efbb01f85f5f31b5ab168" style="zoom:40%;" />
+  <img src="https://github.com/SherloqueChang/Game-of-Amazon/blob/master/pic/240c5ff9f8efbb01f85f5f31b5ab168.png" alt="240c5ff9f8efbb01f85f5f31b5ab168" style="zoom:40%;" />
 
 2. 选择后进入棋盘界面进行人机对战。AI部分见**游戏AI**部分所述
 
@@ -21,7 +21,7 @@
 
 5. 规则说明：跳出规则说明的弹窗，如下：
 
-   <img src="C:\Users\SHERLO~1\AppData\Local\Temp\WeChat Files\a72b5c332910e7061e84ef0852f5cb4.png" alt="a72b5c332910e7061e84ef0852f5cb4" style="zoom:40%;" />
+   <img src="https://github.com/SherloqueChang/Game-of-Amazon/blob/master/pic/a72b5c332910e7061e84ef0852f5cb4.png" alt="a72b5c332910e7061e84ef0852f5cb4" style="zoom:40%;" />
 
 6. 退出游戏：退出游戏界面
 
