@@ -2,17 +2,28 @@
 ## 项目简介
 ### 界面及功能
 基于javax.swing，实现了游戏的图像界面，包括初始界面和棋盘界面如下所示：
-<img src="https://graph.baidu.com/resource/12676409733bd99a2d06b01591104727.jpg" height=300 width=350><img src="https://graph.baidu.com/resource/1261b6b6a4bb08dcd66d801591104858.jpg" height=300 width=350>
+
+<img src="C:\Users\SHERLO~1\AppData\Local\Temp\WeChat Files\d8521c911efc65e8ca3d5d13b079447.png" alt="d8521c911efc65e8ca3d5d13b079447" style="zoom: 33%;" />
+
+<img src="C:\Users\SHERLO~1\AppData\Local\Temp\WeChat Files\947c5765f051d43b9760d45ff0fe20c.png" alt="947c5765f051d43b9760d45ff0fe20c" style="zoom:33%;" />
+
 #### 初始界面
 
 1. 单人游戏：实现了人机对战，点击按钮后打开选择方界面：
-<img src="https://graph.baidu.com/resource/1214d7cc5f235adb1540301591429568.jpg" height=300 width=350>
-选择后进入棋盘界面进行人机对战。AI部分见**游戏AI**部分所述
-2. 双人游戏：本机进行两人游戏操作
-3. 继续游戏：读取本地文件，加载之前保存的游戏对局信息
-4. 规则说明：跳出规则说明的弹窗，如下：
-   &emsp;<img src="https://graph.baidu.com/resource/1260aa3781b8c4c02f1f101591105328.jpg" height=200>
-5. 退出游戏：退出游戏界面
+
+  <img src="C:\Users\SHERLO~1\AppData\Local\Temp\WeChat Files\240c5ff9f8efbb01f85f5f31b5ab168.png" alt="240c5ff9f8efbb01f85f5f31b5ab168" style="zoom:40%;" />
+
+2. 选择后进入棋盘界面进行人机对战。AI部分见**游戏AI**部分所述
+
+3. 双人游戏：本机进行两人游戏操作
+
+4. 继续游戏：读取本地文件，加载之前保存的游戏对局信息
+
+5. 规则说明：跳出规则说明的弹窗，如下：
+
+   <img src="C:\Users\SHERLO~1\AppData\Local\Temp\WeChat Files\a72b5c332910e7061e84ef0852f5cb4.png" alt="a72b5c332910e7061e84ef0852f5cb4" style="zoom:40%;" />
+
+6. 退出游戏：退出游戏界面
 
   #### 棋盘界面
 6. 保存：文件流操作，保存当前对局信息到本地；但在每次选择**单人游戏**或**双人游戏**后保存的游戏信息会被清除并设为初始状态
