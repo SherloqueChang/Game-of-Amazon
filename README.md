@@ -2,7 +2,7 @@
 ## 项目简介
 ### 界面及功能
 基于javax.swing，实现了游戏的图像界面，包括初始界面和棋盘界面如下所示：
-
+![imgge](https://github.com/SherloqueChang/Game-of-Amazon/blob/master/pic/d8521c911efc65e8ca3d5d13b079447.png)
 <img src="https://github.com/SherloqueChang/Game-of-Amazon/blob/master/pic/d8521c911efc65e8ca3d5d13b079447.png" style="zoom: 33%;" />
 
 <img src="https://github.com/SherloqueChang/Game-of-Amazon/blob/master/pic/947c5765f051d43b9760d45ff0fe20c.png" style="zoom:33%;" />
